@@ -104,7 +104,7 @@ function comprobar(){
    if (s4[i].selected) checked1=true;
    }
    for (i = 0; i < s5.length; i++) {  
-      if (s1[i].checked) checked6=true;
+      if (s5[i].checked) checked6=true;
 	  }
    for (i = 0; i < s7.length; i++) {  
    if (s7[i].selected) checked2=true;
