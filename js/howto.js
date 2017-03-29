@@ -1,9 +1,1 @@
-function nuevoexamen1() {
-	var texto = null;
-	texto = document.getElementById("nuevoexamen").selectedIndex;
-	if (texto == 0) {
-		window.location.href = "examen.html"
-	} else {
-		window.location.href = "examen2.html"
-	}
-}
+function nuevoexamen1(){var a=null;a=document.getElementById("nuevoexamen").selectedIndex,0==a?window.location.href="examen.html":window.location.href="examen2.html"}
